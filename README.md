@@ -122,8 +122,6 @@ cint -y maven
 
 IDE 推荐使用 [IntelliJ IDEA](https://www.jetbrains.com/idea/), 另附 [IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial)。
 
-其他开发环境设置 请参考 <http://wiki.timevale.cn:8081/pages/viewpage.action?pageId=8785590>。
-
 ## Node and npm
 
 安装方式:
